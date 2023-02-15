@@ -1,8 +1,8 @@
 class Cliente:
 
     def __init__(self, nome: str, cpf: str,
-                 sexo: str, nascimento: str, 
-                 email: str, telefone: str, 
+                 sexo: str, nascimento: str,
+                 email: str, telefone: str,
                  cartao: str) -> None:
         self.nome = nome
         self.cpf = cpf
