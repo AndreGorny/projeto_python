@@ -11,3 +11,11 @@ Criar uma API para um programa de loyalty. (programa de fidelidade de milhas, do
 
     Será "baseado" no programa www.fidelimax.com.br -> docs.fidelimax.com.br
     
+
+------------------------------------------------------------------------------------------------------
+
+Lógica:
+
+    Classes:
+        Cliente
+        
